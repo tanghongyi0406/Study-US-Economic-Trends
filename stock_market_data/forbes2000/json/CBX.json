@@ -1,0 +1,80 @@
+{
+    "chart": {
+        "result": [
+            {
+                "meta": {
+                    "currency": "USD",
+                    "symbol": "CBX",
+                    "exchangeName": "NYQ",
+                    "instrumentType": "EQUITY",
+                    "firstTradeDate": null,
+                    "regularMarketTime": 1636142568,
+                    "gmtoffset": -18000,
+                    "timezone": "EST",
+                    "exchangeTimezoneName": "America/New_York",
+                    "regularMarketPrice": 25.0,
+                    "chartPreviousClose": 1.83,
+                    "priceHint": 2,
+                    "currentTradingPeriod": {
+                        "pre": {
+                            "timezone": "EST",
+                            "start": 1639990800,
+                            "end": 1640010600,
+                            "gmtoffset": -18000
+                        },
+                        "regular": {
+                            "timezone": "EST",
+                            "start": 1640010600,
+                            "end": 1640034000,
+                            "gmtoffset": -18000
+                        },
+                        "post": {
+                            "timezone": "EST",
+                            "start": 1640034000,
+                            "end": 1640048400,
+                            "gmtoffset": -18000
+                        }
+                    },
+                    "dataGranularity": "1d",
+                    "range": "",
+                    "validRanges": [
+                        "1d",
+                        "5d"
+                    ]
+                },
+                "timestamp": [
+                    1636142568
+                ],
+                "indicators": {
+                    "quote": [
+                        {
+                            "volume": [
+                                60168
+                            ],
+                            "close": [
+                                25.0
+                            ],
+                            "low": [
+                                2.369999885559082
+                            ],
+                            "open": [
+                                25.0
+                            ],
+                            "high": [
+                                2.369999885559082
+                            ]
+                        }
+                    ],
+                    "adjclose": [
+                        {
+                            "adjclose": [
+                                25.0
+                            ]
+                        }
+                    ]
+                }
+            }
+        ],
+        "error": null
+    }
+}
